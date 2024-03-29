@@ -1,0 +1,63 @@
+@import
+	url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap')
+	;
+
+.east-sea-dokdo-regular {
+	font-family: "East Sea Dokdo", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+body {
+	font-family: 'East Sea Dokdo', sans-serif;
+}
+
+h1 {
+	color: #df98e7; /* 글 색상 */
+	font-family: 'east-sea-dokdo-regular'; /* East Sea Dokdo 폰트 적용 */
+}
+
+table {
+	width: 80%;
+	border-collapse: separate;
+	font-size: 25px;
+	line-height: 50px;
+	margin-bottom: 20px;
+	border-radius: 50px;
+}
+
+table td, th {
+	border: 1px solid #d3d3d3;
+	padding: 10px 20px;
+	text-align: center;
+}
+
+th {
+	background: #df98e7;
+}
+
+input[type="reset"], input[type="button"] {
+	padding: 0px 0px;
+	border: none;
+	font-size: 20px;
+	border-radius: 10px;
+	width: 100px;
+	height: 40px;
+	margin: 20px 20px 0 20px;
+	background: #b3b3ff;
+	font-family: 'East Sea Dokdo', sans-serif;
+	/* 버튼 내의 폰트도 East Sea Dokdo로 변경 */
+}
+
+input[type="text"], input[type="password"] {
+	padding: 0px 0px;
+	border: 1px solid gray;
+	font-size: 20px;
+	border-radius: 10px;
+	width: 300px;
+	height: 50px;
+	margin: 20px 20px 0 20px;
+	background: #ffffff;
+	font-family: 'East Sea Dokdo', sans-serif;
+	/* 버튼 내의 폰트도 East Sea Dokdo로 변경 */
+}
