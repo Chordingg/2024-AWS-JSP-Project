@@ -24,6 +24,20 @@
 <details><summary>PPT</summary>
       
 ![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/14c1a1aa-16ac-4798-b761-47e643832151)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/7f51adcb-87f2-494c-b257-6b09aeb4a6d0)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/49c45790-db17-4554-ab04-e6c227c6a229)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/f278f1f8-acfc-42e8-a9f4-ae5d96c58b03)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/9ae78c38-8e8e-45c0-9e84-db813162c837)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/71229bf9-95d2-403e-9189-f7263958c932)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/15b4807e-9559-4dcc-892e-843a13dcd9c3)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/c9c3ce5b-6f6a-4b5c-9201-d0dc31a7327d)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/9c27733d-6bfd-49c6-84d6-b0e5d7543de6)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/d3fbd2bc-edc1-4b7c-9935-869e998e4727)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/c7de0a81-8f77-4fda-8986-3b4c4fc32cb0)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/f6eb2c1b-c61e-4628-aed9-e668c9bb5dc2)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/6a165459-ea1d-4f40-8d17-b6ad89d14e78)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/214d744f-0e39-4183-9314-76a5f74e00a6)
+
 
 
 
