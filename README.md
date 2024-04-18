@@ -23,40 +23,8 @@
 
 <details><summary>PPT</summary>
       
-![1](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/889e35c1-ccb6-4bd5-b930-690876077561)
-![2](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/bdb85e21-34a5-4671-bd7d-c127c48bb48a)
-![3](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/effcf884-c233-488e-bf00-35f3a813b9a8)
-![4](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/770b83d2-54b8-4015-aa11-1654441f2a50)
-![5](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/57044ee6-7095-46e4-8780-65909ba2ca1c)
-![6](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/ca5d247d-2988-4aa0-b048-5765fda3cf50)
-![7](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/fe2c57e0-3f74-485b-abd7-8bdf3c4d4d25)
-![8](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/8d6deb06-36e4-4bec-add1-542c74f965c6)
-![9](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/10a5d34d-cfa1-4207-842b-3f237085149b)
-![10](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/99310c97-9cc3-43be-8c35-b0f2b5e9b872)
-![11](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/e4934a21-470e-468d-b977-2aa8688bb244)
-![12](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/19edfec0-9300-4bb4-afa1-228939b10e70)
-![13](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/4edb8466-1897-4562-8ced-7f982467b0e6)
-![14](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/ad64be88-8bd7-4256-aa7d-cf43d3d6613b)
-![15](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/b6703039-2cf9-47ef-85ac-6c6ddb1a2b74)
-![16](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/64483d50-d5be-43f1-b7dd-94513fc850d6)
-![17](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/aa9f4031-9782-4686-858e-534550f352b2)
-![18](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/c7f41dbf-8274-43f1-96b3-878d559da858)
-![19](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/c9e00e28-4657-41ae-b9b8-0b60e5d49c2c)
-![20](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/de489f16-aa5e-442a-a958-cccab3f1ac5c)
-![21](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/70eaf81c-a65d-4ad7-b486-04bd30267394)
-![22](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/41bb2f54-fa2e-4902-892b-cab0ef2b6cce)
-![23](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/9106eb98-ae1f-42eb-89f4-5b754f58da19)
-![24](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/c09c2ccf-1613-48b7-9491-cd1eabd01ce4)
-![25](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/a0d7697f-1da1-4d3f-b135-2749b6f61c14)
-![26](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/be20dd7a-a7b9-484d-947f-f4f2aae778bc)
-![27](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/e6530b61-e504-4dd2-bab2-5b62cd6cc3b2)
-![28](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/53f95dd6-cd73-440e-99f5-ee2fe5e903d5)
-![29](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/dc7c4b21-809b-4c95-808e-374de873f488)
-![30](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/ddb0e0d4-aa33-4058-83ae-d4e2fd785ecd)
-![31](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/6f35ec6e-06c3-4d82-8685-d1260fe78ebd)
-![32](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/cf3877e9-d7ab-468a-b458-4bee920e2170)
-![33](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/a7ebf46f-e50f-4b26-9fd8-a75131066c9b)
-![34](https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/66fe4173-3a87-4edf-861c-60d3d42d5752)
+![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/14c1a1aa-16ac-4798-b761-47e643832151)
+
 
 
 </details>
