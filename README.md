@@ -13,7 +13,6 @@
 7. [🙋‍♀️ Team_Member](#%EF%B8%8F-team_member-%EF%B8%8F)
 8. [📋 개발 일지](#개발-일지)
 9. [🔨 사용 기술](#-사용-기술-)
-10. [📈  요구 명세서](#-요구-명세서-)
 11. [📊 Diagram](#-다이어그램-)
 12. [📝 기능 설명](#-기능-설명-)
 13. [📹 시연 영상](#-시연-영상-) 
@@ -107,11 +106,6 @@ Tomcat 8080 포트 연결
 <img src="https://img.shields.io/badge/Servlet-E25A1C?style=flat-square&logo=Servlet&logoColor=white" />
 <br>
       
-## 📈 요구 명세서 📈
-
-<details><summary>요구 명세서</summary>
-  <img src="https://github.com/Chunjae-GongCheck/GongCheck/assets/145524731/5eecf6d0-7d59-42b1-a983-db23b09c1fcf">
-</details>
 
 ## 📊 Diagram 📊
 
