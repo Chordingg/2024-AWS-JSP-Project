@@ -40,13 +40,11 @@
 
 
 
-
 </details>
       
 ## 📖 GongCheck 프로젝트 📖
 ```bash프로젝트 소개
-공부인증 기능을 JSP와 MyBatis로 구현한 웹 페이지
-+ Amazon AWS 배포
+JSP 와 Servlet을 이용해 Controller로 에서 Action 을 통하여 구현한 웹 페이지
 ```
 ## 🔧 Development Environment 🔧
 ```
@@ -57,7 +55,7 @@ API, 라이브러리 : Lombok
 ```
 ## 🔔 Prerequisite 🔔
 ```
-MariaDB 3306 포트로 연결 및 DDL 실행
+OracleDB 1521 포트로 연결 
 Tomcat 8080 포트 연결
 ```
 
@@ -89,7 +87,6 @@ Tomcat 8080 포트 연결
 <br>    
 <img src="https://img.shields.io/badge/JAVA-C01818?style=flat-square&logo=coffeescript&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
@@ -100,11 +97,8 @@ Tomcat 8080 포트 연결
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=blue" />
 <br>
 <img src="https://img.shields.io/badge/JSP-E34F26?style=flat-square&logo=JSP&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=yellow" />
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white" />
 <img src="https://img.shields.io/badge/Servlet-E25A1C?style=flat-square&logo=Servlet&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/Bootstrap-80247B?style=flat-square&logo=Bootstrap&logoColor=white" />
       
 ## 📈 요구 명세서 📈
 
