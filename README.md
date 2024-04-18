@@ -116,7 +116,7 @@ Tomcat 8080 포트 연결
 ## 📊 Diagram 📊
 
 <details><summary>Usecase</summary>
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/8f64bd54-3168-473c-8561-ad97fde61443)
+<img src="https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/8f64bd54-3168-473c-8561-ad97fde61443" />
 </details>
 
 <details><summary>ERD</summary>
