@@ -1,17 +1,14 @@
 
-# 2024-AWS-JSP-Project
-
-#  ✏️ 에듀테크 풀스택 3기 1조 GongCheck ✏️ 
+#  ✏️ EZEN 2024 AWS 클라우드 기반 CS개발자 과정 3기 1조 Griptok ✏️ 
 ```bash
-프로젝트 기간 : 2023년 11월 27일 ~ 2023년 12월 11일
+프로젝트 기간 : 2024년 3월 18일 ~ 2024년 3월 29일
 ```
 ## 📚 목차 📚
 
 1. [📂 PPT](#-PPT-)
-2. [📖 프로젝트 소개](#-gongcheck-프로젝트-)
+2. [📖 프로젝트 소개](#-Griptok-프로젝트-)
 3. [🔧 Development Environment](#development-environment)
 4. [🔔 Prerequisite](#prerequisite)
-5. [❗ How to Run in IntelliJ](#how-to-run-in-intellij)
 6. [💡 기획 의도](#기획-의도)
 7. [🙋‍♀️ Team_Member](#%EF%B8%8F-team_member-%EF%B8%8F)
 8. [📋 개발 일지](#개발-일지)
@@ -73,35 +70,27 @@
 ```
 언어 : Java(jdk 11), JSP
 서버 : Apache Tomcat 9.0, Amazon EC2
-프레임워크 : MyBatis (3.5.11)
-DBMS : MariaDB (3.2.0), Amazon RDS
-IDE : IntelliJ IDEA
-API, 라이브러리 : Daum Map API, JQuery, Lombok
+DBMS : OracleDB (11)
+API, 라이브러리 : Lombok
 ```
 ## 🔔 Prerequisite 🔔
 ```
 MariaDB 3306 포트로 연결 및 DDL 실행
-Tomcat 8090 포트 연결
-```
-## ❗ How to Run in IntelliJ ❗
-```
-1. File > Project Structure > Project Settings > Modules > Dependencies >
-+ > 1. Add Jars에 lombok.jar, mariadb-java-client-3.2.0.jar, mybatis-3.5.13.jar 파일을 추가한다.
-2. 실행
+Tomcat 8080 포트 연결
 ```
 
 ## 💡 기획 의도 💡
 ```
-매일매일 그 날의 공부를 인증하며 스스로는 성취감을 얻고 다른 사람들의 게시물을 통해 '착한자극제' 가 되어 동기를 부여하기 위해 개발
+수업에서 배운 JSP & Servlet 을 통하여 실제로 웹 사이트를 구현해보고 무엇보다 내 힘으로 기능적은 부분과 피드백을 통해서 한층 성장하기 위해서.
 ```
 
 ## 🙋‍♀️ Team_Member 🙋‍♀️
 
-#### [😆 Gwon Jincheol 👉 GitHub](https://github.com/Jincheol-11)
-#### [😆 SEOKEUN PARK 👉 GitHub](https://github.com/seokeunpark)
-#### [😆 Jiyeon Lee 👉 GitHub](https://github.com/thegreatjy)
-#### [😆 CK 👉 GitHub](https://github.com/kidchang93)
-#### [😆 JIHYE 👉 GitHub](https://github.com/jyeeeh)
+#### [😆 Kim Hyuk 👉 GitHub]
+#### [😆 Im Soo Jin 👉 GitHub]
+#### [😆 Lee Min Suk 👉 GitHub]
+#### [😆 Chordingg 👉 GitHub]
+#### [😆 Choi yung Seo 👉 GitHub]
 
 ## 📋 개발 일지 📋
 <details><summary>개발 일지</summary>
