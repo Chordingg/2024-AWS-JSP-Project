@@ -80,9 +80,9 @@ Tomcat 8080 포트 연결
 
 ## 📋 개발 일지 📋
 <details><summary>개발 일지</summary>
-   
-![개발일지](https://github.com/Chunjae-GongCheck/GongCheck/assets/145525099/5ac7ac12-4e39-46c2-a1ce-548e7c9bb748)
-
+      
+ ![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/0f731777-3070-4491-bb3c-0d207d815a05)
+  
 </details>
 
 ## 🔨 사용 기술 🔨
