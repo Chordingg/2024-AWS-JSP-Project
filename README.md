@@ -72,6 +72,13 @@ Tomcat 8080 포트 연결
 #### [😆 Chordingg 👉 GitHub]
 #### [😆 Choi yung Seo 👉 GitHub]
 
+#### [😆 Kim Hyuk 👉 상품 상세 / 상품 등록 / 상품 수정 / 상품 삭제]
+#### [😆 Im Soo Jin 👉 상품 장바구니 ]
+#### [😆 Lee Min Suk 👉 상품 결제 페이지 ]
+#### [😆 Chordingg 👉 상품 리스트 페이지 / 회원가입 / 로그인 / CSS ]
+#### [😆 Choi yung Seo 👉 상품 리뷰(댓글) / QnA ] 
+
+
 ## 📋 개발 일지 📋
 <details><summary>개발 일지</summary>
    
@@ -321,6 +328,4 @@ https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/8bebfc7d-c33f-4c5
 ![board](https://github.com/Chunjae-GongCheck/GongCheck/assets/145525099/a5d45e5a-a7e5-4875-a619-8a5bf00238c5)
 
 </details>
-
-<details><summary>게시글 좋아요</summary>
     
