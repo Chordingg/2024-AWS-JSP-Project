@@ -120,7 +120,7 @@ Tomcat 8080 포트 연결
 </details>
 
 <details><summary>ERD</summary>
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/1e777cbc-d841-45fa-b32d-2e4b63417a43)
+<img src="https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/1e777cbc-d841-45fa-b32d-2e4b63417a43" />
 </details>
 
 
