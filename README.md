@@ -15,6 +15,15 @@
 ```
 <hr>
 
+## 📖 방법
+```
+JSP 와 Servlet을 이용해 Controller 에서 Action/ActionFactory 를 통하여 구현함
+```
+
+<hr>
+
+
+
 1. [📂 PPT](#-PPT-)
 2. [📖 프로젝트 소개](#-Griptok-프로젝트-)
 3. [🔧 Development Environment](#development-environment)
