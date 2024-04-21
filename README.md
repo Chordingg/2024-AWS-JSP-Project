@@ -16,7 +16,7 @@
 ```
 <hr>
 
-## 📖 방법
+## 📖 구현 방법
 ```
 JSP 와 Servlet을 이용해 Controller 에서 Action/ActionFactory 를 통하여 구현함
 ```
