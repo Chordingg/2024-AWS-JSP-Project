@@ -58,13 +58,14 @@ Tomcat 8080 포트 연결
 #### [😆 Chordingg 👉 GitHub]
 #### [😆 Choi yung Seo 👉 GitHub]
 
+## 🙋‍♀️ 역할 분담 🙋‍♀️
 #### [🔨 Kim Hyuk 👉 상품 상세 / 상품 등록 / 상품 수정 / 상품 삭제]
 #### [🔨 Im Soo Jin 👉 상품 장바구니 ]
 #### [🔨 Lee Min Suk 👉 상품 결제 페이지 ]
 #### [🔨 Chordingg 👉 상품 리스트 페이지 / 회원가입 / 로그인 / CSS ]
 #### [🔨 Choi yung Seo 👉 상품 리뷰(댓글) / QnA ] 
 
-<hr
+<hr>
 
 ## 📋 개발 일지 📋
 <details><summary>개발 일지</summary>
@@ -73,7 +74,7 @@ Tomcat 8080 포트 연결
   
 </details>
 
-<hr
+<hr>
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
