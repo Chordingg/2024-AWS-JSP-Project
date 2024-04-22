@@ -25,20 +25,6 @@ JSP 와 Servlet을 이용해 Controller 에서 Action/ActionFactory 를 통하�
 <hr>
 
 
-
-1. [📂 PPT](#-PPT-)
-2. [📖 프로젝트 소개](#-Griptok-프로젝트-)
-3. [🔧 Development Environment](#development-environment)
-4. [🔔 Prerequisite](#prerequisite)
-6. [💡 기획 의도](#기획-의도)
-7. [🙋‍♀️ Team_Member](#%EF%B8%8F-team_member-%EF%B8%8F)
-8. [📋 개발 일지](#개발-일지)
-9. [🔨 사용 기술](#-사용-기술-)
-11. [📊 Diagram](#-다이어그램-)
-12. [📝 기능 설명](#-기능-설명-)
-13. [📹 시연 영상](#-시연-영상-) 
-
-
 ## 📂 PPT 📂
 
 <details><summary>PPT</summary>
