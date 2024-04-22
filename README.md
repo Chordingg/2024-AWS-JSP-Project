@@ -33,17 +33,23 @@ JSP 와 Servlet을 이용해 Controller 에서 Action/ActionFactory 를 통하�
 DBMS : OracleDB (11)
 API, 라이브러리 : Lombok
 ```
+
+<hr>
+
 ## 🔔 Prerequisite 🔔
 ```
 OracleDB 1521 포트로 연결 
 Tomcat 8080 포트 연결
 ```
 
+<hr>
+
 ## 💡 기획 의도 💡
 ```
 수업에서 배운 JSP & Servlet 을 통하여 실제로 웹 사이트를 구현해보고
 무엇보다 내 힘으로 기능적은 부분과 피드백을 통해서 한층 성장하기 위해서.
 ```
+<hr>
 
 ## 🙋‍♀️ Team_Member 🙋‍♀️
 
@@ -83,6 +89,8 @@ Tomcat 8080 포트 연결
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 
+<hr>
+
 ## 📊 Diagram 📊
 
 <details><summary>Usecase</summary>
@@ -93,6 +101,7 @@ Tomcat 8080 포트 연결
 <img src="https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/1e777cbc-d841-45fa-b32d-2e4b63417a43" />
 </details>
 
+<hr>
 
 ## 📝 기능 설명 📝
 
@@ -268,6 +277,8 @@ Tomcat 8080 포트 연결
 <br/>
 </details>
 
+<hr>
+
 ## 📹 시연 영상 📹
 
 <details><summary>회원가입 및 로그인</summary>
@@ -301,6 +312,8 @@ https://github.com/Chordingg/2024_JSP-Servlet_Project_Griptok/assets/157094467/6
 
 </details>
 
+<hr>
+
 ## 📂 PPT 📂
 
 <details><summary>PPT</summary>
@@ -323,7 +336,5 @@ https://github.com/Chordingg/2024_JSP-Servlet_Project_Griptok/assets/157094467/6
 
 
 </details>
-<hr>
-      
 
-    
+<hr> 
