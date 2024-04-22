@@ -55,8 +55,8 @@ Tomcat 8080 포트 연결
 #### [😆 Kim Hyuk 👉 GitHub]
 #### [😆 Im Soo Jin 👉 GitHub]
 #### [😆 Lee Min Suk 👉 GitHub]
-#### [😆 Chordingg 👉 GitHub]
-#### [😆 Choi yung Seo 👉 GitHub]
+#### [😆 Chordingg 👉 GitHub](https://github.com/Chordingg)
+#### [😆 Choi yung Seo 👉 GitHub] 
 
 ## 🙋‍♀️ 역할 분담 🙋‍♀️
 #### [🔨 Kim Hyuk 👉 상품 상세 / 상품 등록 / 상품 수정 / 상품 삭제]
