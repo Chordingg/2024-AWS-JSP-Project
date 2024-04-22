@@ -311,13 +311,35 @@ Tomcat 8080 포트 연결
 
 <details><summary>회원가입 및 로그인</summary>
 
-https://github.com/Chunjae-GongCheck/GongCheck/assets/74610908/8bebfc7d-c33f-4c5d-93b2-125751e63f2e
+
+https://github.com/Chordingg/2024_JSP-Servlet_Project_Griptok/assets/157094467/a288e796-1959-4f44-9add-8261da3ef422
+
 
 </details>
     
-<details><summary>게시판</summary>
-    
-![board](https://github.com/Chunjae-GongCheck/GongCheck/assets/145525099/a5d45e5a-a7e5-4875-a619-8a5bf00238c5)
+<details><summary>상품 리스트 & 상세보기</summary>
+
+
+https://github.com/Chordingg/2024_JSP-Servlet_Project_Griptok/assets/157094467/9112a6cc-9f3e-4268-a020-648ce0e31385
+
 
 </details>
+
+<details><summary>리뷰 & QnA</summary>
+
+
+https://github.com/Chordingg/2024_JSP-Servlet_Project_Griptok/assets/157094467/19c62da2-689d-47f8-afff-93f19f2f7bd8
+
+
+</details>
+
+<details><summary>장바구니 & 결제</summary>
+
+
+https://github.com/Chordingg/2024_JSP-Servlet_Project_Griptok/assets/157094467/668e6a16-61af-47dc-869d-ca7ee254f43e
+
+
+</details>
+
+
     
