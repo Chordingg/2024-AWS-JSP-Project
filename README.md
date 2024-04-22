@@ -58,12 +58,13 @@ Tomcat 8080 포트 연결
 #### [😆 Chordingg 👉 GitHub]
 #### [😆 Choi yung Seo 👉 GitHub]
 
-#### [😆 Kim Hyuk 👉 상품 상세 / 상품 등록 / 상품 수정 / 상품 삭제]
-#### [😆 Im Soo Jin 👉 상품 장바구니 ]
-#### [😆 Lee Min Suk 👉 상품 결제 페이지 ]
-#### [😆 Chordingg 👉 상품 리스트 페이지 / 회원가입 / 로그인 / CSS ]
-#### [😆 Choi yung Seo 👉 상품 리뷰(댓글) / QnA ] 
+#### [🔨 Kim Hyuk 👉 상품 상세 / 상품 등록 / 상품 수정 / 상품 삭제]
+#### [🔨 Im Soo Jin 👉 상품 장바구니 ]
+#### [🔨 Lee Min Suk 👉 상품 결제 페이지 ]
+#### [🔨 Chordingg 👉 상품 리스트 페이지 / 회원가입 / 로그인 / CSS ]
+#### [🔨 Choi yung Seo 👉 상품 리뷰(댓글) / QnA ] 
 
+<hr
 
 ## 📋 개발 일지 📋
 <details><summary>개발 일지</summary>
@@ -71,6 +72,8 @@ Tomcat 8080 포트 연결
  ![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/0f731777-3070-4491-bb3c-0d207d815a05)
   
 </details>
+
+<hr
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
