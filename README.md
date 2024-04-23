@@ -28,7 +28,7 @@ JSP 와 Servlet을 이용해 Controller 에서 Action/ActionFactory 를 통하�
 ## 🔧 Development Environment 🔧
 ```
 언어 : Java(jdk 11), JSP
-서버 : Apache Tomcat 9.0, Amazon EC2
+서버 : Apache Tomcat 9.0
 DBMS : OracleDB (11)
 API, 라이브러리 : Lombok
 ```
